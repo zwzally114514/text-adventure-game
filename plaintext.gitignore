@@ -1,0 +1,22 @@
+#编译生成的文件
+*.exe
+*.o
+*.obj
+*.out
+
+#VS Code 配置文件
+.vscode/
+*.code-workspace
+
+#CMake 构建文件
+build/
+CMakeCache.txt
+CMakeFiles/
+
+#系统文件
+.DS_Store
+Thumbs.db
+
+#临时文件
+*.tmp
+*.log
